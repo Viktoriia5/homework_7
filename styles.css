@@ -93,6 +93,7 @@ ol {
   font-weight: 700;
   max-width: 1170px;
   margin: 0 auto;
+  padding: 100px 0;
 }
 
 li {
@@ -108,7 +109,7 @@ h3 {
   font-size: 26px;
   line-height: 28px;
   color: #212b36;
-  padding-top: 150px;
+  padding-top: 30px;
   padding-bottom: 45px;
 }
 .list_ol,
